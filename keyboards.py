@@ -8,7 +8,7 @@ reg = InlineKeyboardMarkup(inline_keyboard=[
 ])
 
 regget = InlineKeyboardMarkup(inline_keyboard=[
-    [InlineKeyboardButton(text='Регистрация', url='https://1warlo.top/v3/2158/1win-mines?p=hj3f')],
+    [InlineKeyboardButton(text='Регистрация', url='https://1wzjvm.top/v3/2158/1win-mines?p=hj3f')],
     [InlineKeyboardButton(text='❌ Назад ', callback_data='back')]
 ])
 
